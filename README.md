@@ -18,3 +18,24 @@ Retry button to play again with new questions
 Loading spinner while fetching data
 
 Error handling for network issues or no data
+
+
+Technologies Used
+HTML5
+
+CSS3 (Flexbox, animations)
+
+JavaScript (ES6 modules, fetch API, DOM manipulation)
+
+Open Trivia Database API
+
+Future Enhancements
+Add support for categories and difficulty levels
+
+Add timer for each question
+
+Show correct answer feedback immediately
+
+Add score leaderboard using backend or Firebase
+
+Add animations for transitions and feedback
